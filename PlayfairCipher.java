@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class OConnell {
+public class PlayfairCipher {
 
     private static char[][] myMatrix;
 
