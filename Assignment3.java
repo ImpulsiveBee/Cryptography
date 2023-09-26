@@ -1,7 +1,7 @@
 import java.math.BigInteger;
 import java.util.*;
 
-public class OConnell {
+public class Assignment3 {
 
     private static final int MIN_PRIME_NUMBER = 100;
     private static final int MAX_PRIME_NUMBER = 1000;
