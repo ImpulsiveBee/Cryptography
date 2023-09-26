@@ -2,7 +2,7 @@
 //Patrick O'Connell
 import java.util.Scanner;
 
-public class OConnell {
+public class Assinment2 {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
